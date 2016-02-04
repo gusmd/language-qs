@@ -1,3 +1,3 @@
-# language-vb package
+# language-qs package
 
-Converted from the ASP VB.net textmate bundle, and then modified to work with VB fully
+Forked from Gorea235:language-vb, which has pretty much everything in common with QS.
