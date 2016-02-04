@@ -1,28 +1,27 @@
 {
-  "name": "language-vb",
-  "main": "./lib/language-vb",
-  "version": "0.1.0-pre1",
-  "description": "Syntax highlighting for VB.net",
+  "name": "language-qs",
+  "main": "./lib/language-qs",
+  "version": "0.0.1",
+  "description": "Syntax highlighting for QuickScript",
   "keywords": [
     "language",
-    "visual basic",
-    "vb",
-    "visualbasic",
-    "vb.net"
+    "quickscript",
+    "hummingbird",
+    "qs"
   ],
   "author": {
-    "name": "Gorea235"
+    "name": "Gusmd"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gorea235/language-vb"
+    "url": "https://github.com/gusmd/language-qs"
   },
-  "homepage": "https://github.com/Gorea235/language-vb",
+  "homepage": "https://github.com/gusmd/language-qs",
   "license": "GNU GPL v3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "readme": "Visual Basic highlighting for Atom",
+  "readme": "QuickScript highlighting for Atom",
   "readmeFilename": "README.md",
   "dependencies": {}
 }

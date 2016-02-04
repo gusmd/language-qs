@@ -1,5 +1,1 @@
-## 0.1.0 - First Release
- * All keywords added
-
-# ToDo
- * Add snippets
+## 0.0.1 - First Release
