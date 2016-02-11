@@ -1,6 +1,10 @@
 ".source.asp.vb.net":
   editor:
     foldEndPattern: "(</(?i:(head|table|div|style|script|ul|ol|form|dl))>?|\\}|^\\s*<?%?\\s*\\s*'?\\s*(?i:(end|Next))\\s*.*$)"
+    'softTabs': true
+    'commentStart': '\' '
+    'increaseIndentPattern': '(^\\s*(?i:(sub|if|else|do|elseif|for|while|function))\\b.*)|( [_])'
+    'decreaseIndentPattern': '^\\s*(?i:(else|elseif|end|next|loop|wend))\\b.*'
 ".text.html.asp.net":
   editor:
     foldEndPattern: '''
