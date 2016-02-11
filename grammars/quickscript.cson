@@ -1,4 +1,4 @@
-comment: "Originally converted from the textmate ASP.VB.Net bundle. Modified my Luke Davies."
+comment: "Originally converted from the textmate ASP.VB.Net bundle. Modified my Luke Davies for Atom. Modified by Augusto Medeiros for QuickScript."
 fileTypes: [
   "ebs"
 ]
@@ -142,33 +142,6 @@ patterns: [
       }
     ]
   }
-  # {
-  #   captures:
-  #     "1":
-  #       name: "punctuation.definition.variable.asp"
-  #   match: "(\\$)[a-zA-Z_x7f-xff][a-zA-Z0-9_x7f-xff]*?\\b\\s*"
-  #   name: "variable.other.asp"
-  # }
-  # {
-  #   match: "(?i:\\b(Application|ObjectContext|Request|Response|Server|Session)\\b)"
-  #   name: "support.class.asp"
-  # }
-  # {
-  #   match: "(?i:\\b(Contents|StaticObjects|ClientCertificate|Cookies|Form|QueryString|ServerVariables)\\b)"
-  #   name: "support.class.collection.asp"
-  # }
-  # {
-  #   match: "(?i:\\b(TotalBytes|Buffer|CacheControl|Charset|ContentType|Expires|ExpiresAbsolute|IsClientConnected|PICS|Status|ScriptTimeout|CodePage|LCID|SessionID|Timeout)\\b)"
-  #   name: "support.constant.asp"
-  # }
-  # {
-  #   match: "(?i:\\b(Lock|Unlock|SetAbort|SetComplete|BinaryRead|AddHeader|AppendToLog|BinaryWrite|Clear|End|Flush|Redirect|Write|CreateObject|HTMLEncode|MapPath|URLEncode|Abandon|Convert|Regex)\\b)"
-  #   name: "support.function.asp"
-  # }
-  # {
-  #   match: "(?i:\\b(Application_OnEnd|Application_OnStart|OnTransactionAbort|OnTransactionCommit|Session_OnEnd|Session_OnStart)\\b)"
-  #   name: "support.function.event.asp"
-  # }
   {
     match: "(?i:(?<=as )(\\b[a-zA-Z_x7f-xff][a-zA-Z0-9_x7f-xff]*?\\b))"
     name: "support.type.vb.asp"
