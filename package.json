@@ -1,7 +1,7 @@
 {
   "name": "language-qs",
   "main": "./lib/language-qs",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Syntax highlighting for QuickScript",
   "keywords": [
     "language",
@@ -10,7 +10,7 @@
     "qs"
   ],
   "author": {
-    "name": "Gusmd"
+    "name": "gusmd"
   },
   "repository": {
     "type": "git",
