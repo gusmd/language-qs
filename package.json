@@ -1,7 +1,7 @@
 {
   "name": "language-qs",
   "main": "./lib/language-qs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Syntax highlighting for QuickScript",
   "keywords": [
     "language",
